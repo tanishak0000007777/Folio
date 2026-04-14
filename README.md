@@ -88,6 +88,24 @@ VITE_SUPABASE_ANON_KEY=your_anon_key
 
 ## 📸 Screenshots
 
+### 🏠 Home Page  
+Elegant landing page with a clean dark theme and smooth typography  
+
+![Home](./Home_page.png)
+
+---
+
+### 📚 Library View  
+Manage and browse your uploaded books with a minimal card layout  
+
+![Library](./Lib.png)
+
+---
+
+### 📖 Reader Interface  
+Immersive reading experience with annotation tools, page navigation, and progress tracking  
+
+![Reader](./Reader.png)
 
 
 ---
